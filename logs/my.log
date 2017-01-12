@@ -1,0 +1,6 @@
+Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+Opening JDBC Connection
+Closing JDBC Connection [Transaction-aware proxy for target Connection [jdbc:mysql://localhost:3306/activiti?useUnicode=true&characterEncoding=utf-8&zeroDateTimeBehavior=convertToNull&transformedBitIsBoolean=true, UserName=root@localhost, MySQL Connector Java]]
+Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+Opening JDBC Connection
+Closing JDBC Connection [Transaction-aware proxy for target Connection [jdbc:mysql://localhost:3306/activiti?useUnicode=true&characterEncoding=utf-8&zeroDateTimeBehavior=convertToNull&transformedBitIsBoolean=true, UserName=root@localhost, MySQL Connector Java]]
